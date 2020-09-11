@@ -1,0 +1,150 @@
+p{
+    color:black;
+    font-size: 30px;
+    text-align: justify;
+    text-indent: 60px;
+    margin:50px;
+    
+}
+
+
+#imagem_fundo { 
+    background: url("homem.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+header{
+        background-color: #F4A460;
+        color: white;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        z-index: 10;
+}   
+#menu {
+    float: right;
+    margin-right: 3%;
+    list-style: none;
+    margin-top: 3px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+li {
+    float: left;
+    padding: 20 10 20 10;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+li:hover {
+     background-color: tomato; 
+    opacity: 80%; 
+    border-radius: 10px;  }
+
+h1{
+    color:white;
+    text-align: center;
+    padding-top: 40%;
+    font-size: 70px;
+    
+}
+html, body{
+    margin:0%;
+    padding:0%;
+    background-color:#B22222 ;
+}
+.primeiro{
+    background-color:#b11616;
+    
+    
+}
+#part1{
+    background-color: #e04327;
+    padding: 15px;
+    border: 4px red;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    
+}
+.segundo{
+    background-color:#bb1a1a;
+    
+}
+.Romer{
+    margin-left: 400px;
+    margin-top: 25px;
+    width: 600px;
+    height: 400px;}
+
+#part2{
+    background-color:#e04327 ;
+    padding: 15px;
+    border: 4px red;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}   
+a{
+    color:white;
+    text-decoration: none;
+}   
+#part3{
+    background-color:#e04327 ;
+    padding: 15px;
+    border: 4px red;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.terceiro{
+    background-color: 
+}
+.paragrafo{
+    text-align: center;
+    font-size: 35px;
+}
+#caixascursos{
+    background-color: rgb(219, 168, 100);
+    width: 250px;
+    height: 250px;
+    margin-left: 75px;
+    margin-bottom: 100px;
+    float: left;
+    text-align: center;
+    padding: 0%;
+    z-index:9;
+    transition: 0.5s;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#caixascursos:hover{
+    background-color: tomato;
+    opacity: 80%;
+    width: 270px;
+    height: 270px;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+iframe{
+    margin-left: 400px;
+}
+#sobre{
+    background-color:#e04327 ;
+    padding: 15px;
+    border: 4px red;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.quarta{
+    background-color:#b11616
+}
+
+    
